@@ -79,7 +79,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/1993301a-7d8e-4bfd-9b49-566c9ce3afc4)
+![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/c9fb86ad-d032-4ce4-ba32-b7e3e9897f9d)
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -98,7 +98,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/3ba560a0-d97e-448d-934a-0d3c7d6f59e4)
+![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/16a0e07c-4768-4ed0-9b60-0365807b5160)
 
 ### Normalize -> Pre-Processing Technique:
 
