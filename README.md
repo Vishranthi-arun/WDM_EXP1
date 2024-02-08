@@ -79,6 +79,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/1993301a-7d8e-4bfd-9b49-566c9ce3afc4)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
