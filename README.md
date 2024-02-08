@@ -54,6 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/c6015b9a-a577-459e-b3dc-815d0fae5218)
+
+![image](https://github.com/Vishranthi-arun/WDM_EXP1/assets/93427278/a119bae9-f560-42ba-b412-c1362a6ab4d9)
 
 
 ### PREPROCESSING
